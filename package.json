@@ -1,6 +1,6 @@
 {
   "name": "vue-previewer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "potosipe for vue",
   "main": "./src/index.js",
   "author": "cinos@qq.com <cinos@qq.com>",
